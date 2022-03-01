@@ -1,0 +1,31 @@
+*{
+    margin: 0;padding: 0;
+}
+.styling{
+    font-size: 4em;
+    letter-spacing: 1em;
+    position: relative;
+    left:10vw;
+    text-align: center;
+    text-transform:uppercase;
+    color:red;
+    text-decoration: overline;
+    
+}
+#btn{
+    width:10vw;
+    height:8vh;
+    position: relative;
+    left:45vw;
+    background: linear-gradient(red, yellow);
+    cursor: pointer;
+}
+#btn-add{
+    width:10vw;
+    height:8vh;
+    position: relative;
+    left:45vw;
+    background: linear-gradient(red, yellow);
+    cursor: pointer;
+    display: none;
+}
